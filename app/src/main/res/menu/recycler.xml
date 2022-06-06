@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/action_add"
+        android:orderInCategory="100"
+        android:title="ADD"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/action_remove"
+        android:orderInCategory="100"
+        android:title="REMOVE"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/action_customize"
+        android:orderInCategory="100"
+        android:title="CUSTOMIZE"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_normal"
+        android:orderInCategory="100"
+        android:title="NORMAL"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/action_horizontal"
+        android:orderInCategory="100"
+        android:title="HORIZONTAL"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_vertical"
+        android:orderInCategory="100"
+        android:title="VERTICAL"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_staggered "
+        android:orderInCategory="100"
+        android:title="Staggered"
+        android:visible="false"
+        app:showAsAction="collapseActionView" />
+</menu>
