@@ -42,7 +42,7 @@
         android:visible="false"
         app:showAsAction="collapseActionView" />
     <item
-        android:id="@+id/action_staggered "
+        android:id="@+id/action_staggered"
         android:orderInCategory="100"
         android:title="Staggered"
         android:visible="false"

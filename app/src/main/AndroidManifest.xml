@@ -24,14 +24,6 @@
             android:name=".ui.GridActivity"
             android:theme="@style/Theme.AppCompat" >
         </activity>
-        <activity
-            android:name=".ui.AnimationListActivity"
-            android:theme="@style/Theme.AppCompat" >
-        </activity>
-        <activity
-            android:name=".ui.AnimationGridActivity"
-            android:theme="@style/Theme.AppCompat" >
-        </activity>
     </application>
 
 </manifest>

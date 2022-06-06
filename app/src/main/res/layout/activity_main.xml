@@ -29,21 +29,7 @@
         android:text="Gridview"
         android:onClick="grid"/>
 
-    <Button
-        android:textAllCaps="false"
-        android:layout_margin="@dimen/margin_15"
-        android:layout_width="match_parent"
-        android:layout_height="48dp"
-        android:text="List Adapter animators"
-        android:onClick="adapterList"/>
 
-    <Button
-        android:textAllCaps="false"
-        android:layout_margin="@dimen/margin_15"
-        android:layout_width="match_parent"
-        android:layout_height="48dp"
-        android:text="Grid Adapter animators"
-        android:onClick="adapterGrid"/>
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>
