@@ -10,6 +10,7 @@ public class ItemObject {
     private boolean isSelected = false ;
 
 
+    
 
     public ItemObject(String mName, int mColor) {
         this.mName = mName;
